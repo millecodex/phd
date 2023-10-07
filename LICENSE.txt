@@ -1,7 +1,20 @@
 Copyright information
 
-Theses, dissertations and research projects are protected by the Copyright Act 1994 (New Zealand). The thesis, dissertation or research projects may be consulted by you, provided you comply with the provisions of the Act and the following conditions of use:
+Theses, dissertations and research projects are protected by the Copyright Act 1994 (New Zealand). 
+The thesis, dissertation or research projects may be consulted by you, provided you comply with 
+the provisions of the Act and the following conditions of use:
 
-Any use you make of these documents or images must be for research or private study purposes only, and you may not make them available to any other person.
-Authors control the copyright of their thesis, dissertation or research project. You will recognise the author’s right to be identified as the author of the thesis, dissertation or research project, and due acknowledgement will be made to the author where appropriate.
-You will obtain the author’s permission before publishing any material from the thesis, dissertation or research project.
+Any use you make of these documents or images must be for research or private study purposes only,
+and you may not make them available to any other person.
+
+Authors control the copyright of their thesis, dissertation or research project. You will 
+recognise the author’s right to be identified as the author of the thesis, dissertation or 
+research project, and due acknowledgement will be made to the author where appropriate.
+
+You will obtain the author’s permission before publishing any material from the thesis, 
+dissertation or research project.
+
+Please cite any use of the document or data as:
+
+Nijsse, J. (2023). Open Source Blockchain Software: A Structural Equation Model of Health. (PhD 
+  Thesis, Auckland University of Technology). doi-to-follow.
