@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this thesis, please cite it as below."
+authors:
+- family-names: "Nijsse"
+  given-names: "Jeff"
+  orcid: "https://orcid.org/0000-0002-4199-7201"
+title: "Open Source Blockchain Software Health: A Theoretical Framework"
+version: 1.0.0
+date-released: 2024-02-01
+preferred-citation:
+  thesis-type: "PhD thesis"
+  type: generic
+identifiers:
+  - description: "The published DOI of the work."
+    type: doi
+    value: xxx-TBD-xxx
