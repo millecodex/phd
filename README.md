@@ -1,2 +1,2 @@
-# phd
-PhD thesis home for Open Source Blockchain Software: A Structural Equation Model of Health
+# Open Source Blockchain Software Health: A Theoretical Framework
+PhD thesis home for data, thesis files, and data anchors (hashed timestamping).
