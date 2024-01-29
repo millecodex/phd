@@ -1,12 +1,13 @@
 authors:
-  - family-names: Druskat
-    given-names: Stephan
+  - family-names: Nijsse
+    given-names: Jeff
 cff-version: 1.2.0
-message: "If you use this software, please cite both the article from preferred-citation and the software itself."
+message: "If you use this dataset, please cite both the article from preferred-citation and the dataset itself."
 preferred-citation:
   authors:
-    - family-names: Druskat
-      given-names: Stephan
-  title: "Software paper about My Research Software"
+    - family-names: Nijsse
+      given-names: Jeff
+  title: "Open Source Blockchain Software Health: A Theoretical Framework"
   type: article
-title: "My Research Software"
+  year: 2024
+title: "Dataset on Open Source Blockchain Software Health"
