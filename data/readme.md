@@ -3,7 +3,7 @@ Data for the Exploratory Factor Analysis and related publication information can
 
 ## SEM Data
 Data for the Structural Equation Modelling component and related Confirmatory Factor Analysis:\
-[full data (csv)](/health-data-top-600.csv)
+[full data (csv)](data/health-data-top-600.csv)
 
 ### Preview
 | CMC_id | CMC_rank |    name    | ticker |             web_primary             |           web_secondary            |              source_code             | check_source |                  notes                  |              repo               |   forge   | stars | forks | auth_tot | authors | commits | comments | PR_open | days_inactive | avg_resp_time | med_resp_time | avg_longevity_days | language: | created_since: | updated_since: | contributor_count: | org_count: | commit_frequency: | recent_releases_count: | updated_issues_count: | closed_issues_count: | comment_frequency: | dependents_count: | criticality_score: | alexa_rank | geo_rmse | geo_mae |
