@@ -1,5 +1,5 @@
 # Open Source Blockchain Software Health: A Theoretical Framework
-PhD thesis home for [data](/data), [thesis files](/thesis), code [scripts](/code), and [data anchors](/data-anchor) (hashed timestamping).
+PhD thesis home for [data](/data), [thesis files](/thesis), [code scripts](/code), and [data anchors](/data-anchor) (hashed timestamping).
 
 # Abstract
 The thesis combines research into blockchain software with the health of software ecosystems to produce a theoretical framework for open source blockchain health. The motivation comes from the blockchain trilemma, which argues that a blockchain network can achieve only two out of the three design objectives from decentralisation, security, and scalability. Between decentralisation and scalability, the objective is to investigate blockchain software from a health perspective to determine areas for improvement.
