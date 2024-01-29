@@ -1,10 +1,12 @@
+authors:
+  - family-names: Druskat
+    given-names: Stephan
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-- family-names: "Nijsse"
-  given-names: "Jeff"
-  orcid: "https://orcid.org/0000-0002-4199-7201"
-title: "Open Source Blockchain Software Health: A Theoretical Framework"
-version: 1.0
-date-released: 2024-02-01
-url: "https://github.com/millecodex/phd/data"
-type: dataset
+message: "If you use this software, please cite both the article from preferred-citation and the software itself."
+preferred-citation:
+  authors:
+    - family-names: Druskat
+      given-names: Stephan
+  title: "Software paper about My Research Software"
+  type: article
+title: "My Research Software"
