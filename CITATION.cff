@@ -1,14 +1,20 @@
 cff-version: 1.2.0
-message: "If you use this thesis, please cite it as below."
-authors:
+message: "If you use this software, please cite it as below."
 - family-names: "Nijsse"
   given-names: "Jeff"
   orcid: "https://orcid.org/0000-0002-4199-7201"
 title: "Open Source Blockchain Software Health: A Theoretical Framework"
+version: 1.0
+date-released: 2024-02-01
+url: "https://github.com/millecodex/phd/data"
 preferred-citation:
-  thesis-type: "PhD thesis"
   type: generic
-identifiers:
-  - description: "The published DOI of the work."
-    type: doi
-    value: xxx-TBD-xxx
+  thesis-type: "PhD thesis"
+  authors:
+  - family-names: "Nijsse"
+    given-names: "Jeff"
+    orcid: "https://orcid.org/0000-0002-4199-7201"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  title: "Open Source Blockchain Software Health: A Theoretical Framework"
+  year: 2024
