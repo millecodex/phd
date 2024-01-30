@@ -19,7 +19,7 @@ Structural equation modelling is used to add a structural element to the latent 
 In summary, the study contributes to both academic and practical realms by providing a methodologically rigorous, empirically substantiated framework and metrics for assessing the health of blockchain projects in the OSS ecosystem.
 
 ## Keywords
-Blockchain, Bitcoin, Exploratory Factor Analysis, Structural Equation Modelling, GitHub, Open-Source Software, Software Health, Theoretical Framework
+Blockchain, Bitcoin, Exploratory Factor Analysis, Structural Equation Modelling, GitHub, Open Source Software, Software Health, Theoretical Framework
 
 ## Author
 [Jeff Nijsse](https://academics.aut.ac.nz/jeff.nijsse/about)
