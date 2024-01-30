@@ -25,4 +25,4 @@ Blockchain, Bitcoin, Exploratory Factor Analysis, Structural Equation Modelling,
 [Jeff Nijsse](https://academics.aut.ac.nz/jeff.nijsse/about)
 
 ## Open Access Repository
-Available at https://tuwhera.aut.ac.nz/research-repository 
+Available at https://tuwhera.aut.ac.nz/research-repository upon publishing.
