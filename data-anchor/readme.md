@@ -11,12 +11,12 @@ The `SHA256` hash of version 1 of this document is:
 9885dee02e36e2e4bbf808093364f2dafcc284a119f280417025e64fb5b47215
 ```
 
-and can be verified by downloading the PDF file from GitHub, computing the SHA256 hash, for example:
+and can be verified by downloading the PDF file from [GitHub](https://github.com/millecodex/phd/blob/main/thesis/Nijsse-PhD-anchored.pdf), computing the SHA256 hash, for example:
 ```
 $ shasum -a 256 Nijsse-PhD-anchored.pdf
 ```
 
-and comparing the hashed output to the public value found in the blockchain.
+and comparing the hashed output to the public value found in the blockchain. Any update to a pdf, such as including a transaction hash or block number, will invalidate the hash, so to avoid this issue, a live-update must be provided, exclusive of the original hash creation.
 
 ### Bitcoin
 
