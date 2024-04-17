@@ -1,6 +1,8 @@
 ## A Note on Data Anchoring
 
-**Data Anchoring**, also known as Digital Archiving or Public Timestamping, involves writing a cryptographic hash to immutable storage. Public blockchains present an ideal use case for this type of activity as the distributed database ensures data replication and censorship resistance, and the public nature makes verification quick and efficient.
+**Data Anchoring**, also known as Digital Archiving or Public Timestamping[^1], involves writing a cryptographic hash to immutable storage. Public blockchains present an ideal use case for this type of activity as the distributed database ensures data replication and censorship resistance, and the public nature makes verification quick and efficient.
+
+[^1]: Haber, S., & Stornetta, W. S. (1991). How to Time-Stamp a Digital Document. In A. J. Menezes & S. A. Vanstone (Eds.), Advances in Cryptology-CRYPTO '90 (pp. 437–455). Springer. [DOI: 10.1007/3-540-38424-3_32](https://doi.org/10.1007/3-540-38424-3_32)
 
 The work has been anchored to popular blockchains by including the hash in a transaction in the appropriate style.
 
@@ -18,7 +20,9 @@ and comparing the hashed output to the public value found in the blockchain.
 
 ### Bitcoin
 
-The `OP_RETURN` script opcode in a Bitcoin transaction marks the transaction outputs as unspendable, or specifically as a UTXO of type `nulldata`. Thus, any data in the field terminates the UTXO chain and can be used to burn bitcoin, or, as in this case, store 80 bytes of arbitrary data. Using `OP_RETURN` is considered more polite than writing data to the pay-to-public-key-hash (p2pkh) output, as it is difficult to distinguish from a real public-key-hash, and so must be stored by all nodes. `OP_RETURN` data can optionally be pruned by nodes to save storage.
+The `OP_RETURN` script opcode in a Bitcoin transaction marks the transaction outputs as unspendable, or specifically as a UTXO of type `nulldata`. Thus, any data in the field terminates the UTXO chain and can be used to burn bitcoin, or, as in this case, store 80 bytes of arbitrary data. Using `OP_RETURN` is considered more polite than writing data to the pay-to-public-key-hash (p2pkh) output, as it is difficult to distinguish from a real public-key-hash, and so must be stored by all nodes.[^2] `OP_RETURN` data can optionally be pruned by nodes to save storage.
+
+[^2]: Bartoletti, M., & Pompianu, L. (2017). An analysis of Bitcoin OP_RETURN metadata. [arXiv: 1702.01024](https://arxiv.org/abs/1702.01024)
 
 The [transaction](https://mempool.space/tx/76adf298dcd1d981fde6a846956ea86ad42cc26f8caba09c1ced920c943c4e04) in block `838705` contains the following transaction output, partially shown in `JSON`, where part of the `OP_RETURN` is:
 ```
