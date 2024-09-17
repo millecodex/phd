@@ -22,7 +22,7 @@ In summary, the study contributes to both academic and practical realms by provi
 Blockchain, Bitcoin, Exploratory Factor Analysis, Structural Equation Modelling, GitHub, Open Source Software, Software Health, Theoretical Framework
 
 ## Author
-[Jeff Nijsse](https://academics.aut.ac.nz/jeff.nijsse/about)
+[Jeff Nijsse](https://academics.rmit.edu.au/jeff-nijsse)
 
 ## Open Access Repository
 Available at https://tuwhera.aut.ac.nz/research-repository and via the permalink: http://hdl.handle.net/10292/17427
